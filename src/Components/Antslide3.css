@@ -1,0 +1,49 @@
+.Genesis3{
+    width: 100%;
+    height: 400px;
+   
+    
+}
+.slide9{
+    background: url(../Components/Images/environment1.jpg);
+    height: 190px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    @media screen (max-width:800px){
+        
+    }
+    
+}
+.slide10{
+    background: url(../Components/Images/environment2.jpg);
+    height: 190px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    border-radius: 20px;  
+   
+}
+.slide11{
+    background: url(../Components/Images/air\ 2.jpg);
+    height: 190px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+   
+}
+.slide12{
+    background: url(../Components/Images/air3.jpg);
+    height: 190px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}

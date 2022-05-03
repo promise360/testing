@@ -1,0 +1,49 @@
+.Genesis2{
+    width: 100%;
+    height: 400px;
+   
+    
+}
+.slide5{
+    background: url(../Components/Images/plumbing\ 1.jpg);
+    height: 190px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    @media screen (max-width:800px){
+        
+    }
+    
+}
+.slide6{
+    background: url(../Components/Images/plumbing\ 2.jpg);
+    height: 190px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    border-radius: 20px;  
+   
+}
+.slide7{
+    background: url(../Components/Images/plumbing\ 3.jpeg);
+    height: 190px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+   
+}
+.slide8{
+    background: url(../Components/Images/plumbing\ 4.jpg);
+    height: 190px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
